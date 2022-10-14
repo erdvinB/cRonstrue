@@ -626,6 +626,7 @@ export class ExpressionDescriptor {
 //       if (hour === 0) {
 //         hour = 12;
 //       }
+      hour = 1;
     }
 
     const minute = minuteExpression;
